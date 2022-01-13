@@ -156,8 +156,12 @@ footer {
     
   }
 } */
+@media (min-width: 318px) and (max-width: 505px) {
 
-@media (max-width: 414px) {
+
+
+}
+@media (max-width: 500px) {
   /* * {
     /* color: red; */
   /* .footer-container {
@@ -191,10 +195,10 @@ footer {
     margin-right: 40px;
     height: 80%;
   }
-  .img-div {
+  /* .img-div {
     padding-bottom: 0px;
     margin-bottom: 0;
-  }
+  } */
 
   .front-page {
     margin-bottom: 0;
@@ -203,7 +207,7 @@ footer {
   .row-section {
     margin-bottom: 0;
     padding-bottom: 0px;
-    height: 780px;
+    height: 900px;
   }
   /* div.footer-button{
     padding: 20px;
