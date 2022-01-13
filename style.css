@@ -160,10 +160,9 @@ footer {
 @media (max-width: 414px) {
   /* * {
     /* color: red; */
-  } */
-  .footer-container {
+  /* .footer-container {
     display: none;
-  }
+  } */
   .purchase-button {
     text-align: center;
     margin-left: 5px;
@@ -185,6 +184,26 @@ footer {
   .footerr-button {
     /* padding: 5px; */
     margin: 7px;
+  }
+  .img-crypto {
+    width: 90%;
+    /* margin-left: 30px; */
+    margin-right: 40px;
+    height: 80%;
+  }
+  .img-div {
+    padding-bottom: 0px;
+    margin-bottom: 0;
+  }
+
+  .front-page {
+    margin-bottom: 0;
+    padding-bottom: 0px;
+  }
+  .row-section {
+    margin-bottom: 0;
+    padding-bottom: 0px;
+    height: 780px;
   }
   /* div.footer-button{
     padding: 20px;
